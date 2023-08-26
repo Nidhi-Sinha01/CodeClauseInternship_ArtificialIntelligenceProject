@@ -30,11 +30,18 @@ Predict the Gold prices
 Machine Learning Algorithms Used
 RandomForest Regressor
 Libraries Used
+
 Pandas
+
 Numpy
+
 Matplotlib
+
 Seaborn
+
 Sklearn
+
+
 Task - 3 Blindness Prediction
 You are provided with a large set of high-resolution retina images taken under a variety of imaging conditions. A left and right field is provided for every subject. Images are labeled with a subject id as well as either left or right (e.g. 1_left.jpeg is the left eye of patient id 1).
 
