@@ -1,6 +1,7 @@
 # CodeClauseInternship_ArtificialIntelligenceProject
 
 DataSet - https://www.kaggle.com/datasets/altavish/boston-housing-dataset
+
 Workflow
 Importing the required packages into our python environment
 Importing the house price data and do some EDA on it
